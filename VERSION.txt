@@ -1,0 +1,2 @@
+﻿Parking PWA Static V1.2 Launcher
+移除跨網域 iframe；主畫面啟動後使用頂層導向開啟 Apps Script；新增 iPhone 180x180 圖示。

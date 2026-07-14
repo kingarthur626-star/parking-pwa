@@ -1,0 +1,13 @@
+﻿{
+  "README_V1.2.txt": "c6bb7fbe63f46e28bd17ca2ffde123dee83da1e80336b26cfc5dc6e54cb105a3",
+  "VERSION.txt": "6ee3ec204fff4ec0c53cb8486bfcfc2de0474053c811368c4b8baef1135ced9c",
+  "app-config.js": "493917b9f4f29d3f8e18a9a55b35fd29ebd3cb9df2c670a7ae20dce508d21eda",
+  "apple-touch-icon.png": "b1fbd2329eac654eae3473555580d357cb9e3ef00b4d363eda462bf5f8264d6d",
+  "icons/icon-192.png": "cdd02adb06984400bc2ec8647088d878e02b90838fff5f4e675303657f4fe940",
+  "icons/icon-512.png": "c98acc31f5edf20c97e2adb11ca3317289db45edced31ca6ef13bc1937058e6a",
+  "icons/icon-maskable-512.png": "c65535d02599985a2ed605880577fb50186c6cdfa40fc9c954ed005857e89ce3",
+  "index.html": "6e1f5fc325c10b5dee603463e2c955f8deebce6a006ffbbfba968665f61c4c97",
+  "manifest.webmanifest": "2c331007848a724a4635ba3330fcd629238231ee7e5e7f0e8f908c426cdaeb0b",
+  "offline.html": "803fe6cd2439015cafc0fc2408f30c7470d8156a7acf9634def40105434620ff",
+  "service-worker.js": "446602a36a32a353e1c64a63bdd1701b679df91ed7d711558416ab63459dc1ab"
+}
